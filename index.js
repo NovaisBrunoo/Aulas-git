@@ -1,3 +1,20 @@
-console.log("Aulas git . github !")
-console.log("Aulas-02 , Repositório");
-console.log("Fim da aula!");
+console.log("Aula de Git-Github !");
+
+//COMANDO PARA FAZER REPOSITÓRIO VAZIO NO LOCAL(COMPUTADOR);
+//COMANDO PARA CRIAR OUTRO BRANCH
+//MUDAR DE BRANCH
+//COMO BAIXAR ARQUIVOS EXISTENTE NO GITHUB PARA SEU COMPUTADOR EM DETERMINADO BRANCH
+
+console.log("git init");
+//COMANDO PARA INICIAR REPOSITORIO VAZIO NO SEU COMPUTADOR;
+
+
+console.log("git push -u origin (nome do branch)")
+//COMANDO PARA ENVIAR ARQUIVOS DO COMPUTADOR PARA HOST DESTINADO AO BRANCH
+
+
+console.log("git checkout");
+//PARA MUDAR DE BRANCH
+console.log("git chechout -b (nome da branch)");
+//PARA CRIAR UMA BRANCH
+
